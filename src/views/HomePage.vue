@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Home Page</h1>
+    <h1>Recipe Finder by Hassaan Qureshi</h1>
     <input v-model="ingredients" placeholder="Enter ingredients (comma-separated)" />
     <button @click="getRecipes">Find Recipes</button>
     
