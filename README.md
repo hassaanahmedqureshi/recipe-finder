@@ -3,11 +3,13 @@
 
 A simple app to find recipes based on ingredients using the Edamam API.
 
-## Project Setup
 
 ### Link to live project
 
 Check out the live version of the project [here](https://hassaanahmedqureshi.github.io/recipe-finder/).
+
+
+## Project Setup
 
 ### 1. Clone the repository
 ```
@@ -48,8 +50,6 @@ npm run build
 ```
 npm run lint
 ```
-
-
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
