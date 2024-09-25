@@ -5,7 +5,7 @@
     </h1>
 
     <h2 class="text-center text-sm text-gray-500" style="font-family: 'Cinzel Decorative', serif;">
-      by Hassaan Qureshi
+      by Hassaan AQ
     </h2>
 
     <div class="flex flex-col items-center mt-10">
